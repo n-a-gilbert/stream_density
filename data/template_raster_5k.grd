@@ -1,0 +1,26 @@
+[general]
+creator=R package 'raster'
+created=2020-05-07 18:13:04
+[georeference]
+nrows=102
+ncols=95
+xmin=294838.999873089
+ymin=224398.437595549
+xmax=769838.999873089
+ymax=734398.437595549
+projection=+proj=tmerc +lat_0=0 +lon_0=-90 +k=0.9996 +x_0=520000 +y_0=-4480000 +ellps=GRS80 +units=m +no_defs
+[data]
+datatype=FLT4S
+byteorder=little
+nbands=1
+bandorder=BIL
+categorical=FALSE
+minvalue=NA
+maxvalue=NA
+nodatavalue=-3.4e+38
+[legend]
+legendtype=
+values=
+color=
+[description]
+layername=layer
